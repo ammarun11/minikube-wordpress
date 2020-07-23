@@ -1,0 +1,9 @@
+resources:
+  - wordpressdb-deployment.yaml
+  - wordpress-deployment.yaml
+  - pv-mysql-wordpress.yaml
+  - pvc-mysql.yaml
+  - pvc-wordpress.yaml
+  - wordpress-svc.yaml
+  - wordpressdb-svc.yaml
+
